@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vigenere {
+public class Lab1Eda {
     static String chars = "abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ0123456789";
 
     static String[] testPasswords = {
